@@ -270,5 +270,3 @@ See `.env.example` for supported settings:
 ## Author
 
 **Mani Vighneswar Reddy**
-
-Add your LinkedIn and GitHub profile links here before publishing.
